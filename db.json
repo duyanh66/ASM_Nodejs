@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Hihi",
+      "id": 4
+    },
+    {
+      "name": "Duy Anh",
+      "username": "anhndph24923",
+      "email": "duyanh@gmail.com",
+      "phone": "02132132138",
+      "id": 7
+    },
+    {
+      "name": "Duy Anh",
+      "username": "anhndph24923",
+      "email": "duyanh@gmail.com",
+      "phone": "02132132138",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "Haha",
+      "username": "emndph24923",
+      "email": "haha@gmail.com",
+      "phone": "02132132138",
+      "id": 11
+    },
+    {
+      "name": "Duy Anh hehe",
+      "username": "emndph24923",
+      "email": "haha@gmail.com",
+      "phone": "02132132138",
+      "id": 13
+    },
+    {
+      "name": "Duy Anh hehe",
+      "id": 14,
+      "add": "Hà Nội"
+    }
+  ]
+}
